@@ -9,3 +9,6 @@ This [program](./Portfolio1-Data_Exploration/stats.cpp) reads from the [Boston.c
 
 ## Portfolio 2: Linear Models
 This assignment involved exploring and fitting linear models to two datasets. This [pdf](./Portfolio2-Linear_Models/Regression.pdf) shows the code for fitting three different types of linear regression models to a data set about traffic volume. This [pdf](./Portfolio2-Linear_Models/Classification.pdf) shows how to fit a logistic regression model and a naive bayes model to a data set about a population of adults.
+
+## Portfolio 3: ML Algorithms From Scratch
+This assignment involved implementing the [Logistic Regression](./Portfolio3-ML_Algorithms_From_Scratch/LogReg.cpp) and [Naive Bayes](./Portfolio3-ML_Algorithms_From_Scratch/NaiveBayes.cpp) algorithms from scratch on the [titanic data set](./Portfolio3-ML_Algorithms_From_Scratch/titanic_project.csv). Read this report to learn more about both of these programs.
