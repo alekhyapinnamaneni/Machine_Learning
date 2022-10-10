@@ -12,3 +12,6 @@ This assignment involved exploring and fitting linear models to two datasets. Th
 
 ## Portfolio 3: ML Algorithms From Scratch
 This assignment involved implementing the [Logistic Regression](./Portfolio3-ML_Algorithms_From_Scratch/LogReg.cpp) and [Naive Bayes](./Portfolio3-ML_Algorithms_From_Scratch/NaiveBayes.cpp) algorithms from scratch on the [titanic data set](./Portfolio3-ML_Algorithms_From_Scratch/titanic_project.csv). Read this [report](./Portfolio3-ML_Algorithms_From_Scratch/ML_Algorithms_from_Scratch.pdf) to learn more about both of these programs.
+
+## Portfolio 4: Searching for Similarity
+This assignment involved comparing the results of multiple algorithms for [regression](./Portfolio4-Search_For_Similarity/Regression.pdf), [classification](./Portfolio4-Search_For_Similarity/Classification.pdf), [clustering](./Portfolio4-Search_For_Similarity/Clustering.pdf), and [dimensionality reduction](./Portfolio4-Search_For_Similarity/Dimensionality_Reduction.pdf). This [document](./Portfolio4-Search_For_Similarity/Narrative.pdf) explains how each of the algorithms implemented in this portfolio work.
