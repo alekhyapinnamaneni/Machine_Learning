@@ -18,3 +18,6 @@ This assignment involved comparing the results of multiple algorithms for [regre
 
 ## Portfolio 5: Kernel and Ensemble Methods
 This assignment involved peforming machine learning using SVM kernels and Ensemble methods. This [pdf](./Portfolio5-Kernel_Ensemble_Methods/Regression.pdf) contains an implementation of SVM Regression using a linear, polynomial, and radial kernels on a regression datset. This [pdf](./Portfolio5-Kernel_Ensemble_Methods/Classification.pdf) performs the same algorithms, but on a classification datset. This [pdf](./Portfolio5-Kernel_Ensemble_Methods/Ensemble.pdf) compares the performances of three ensemble methods (Random Forest, XGBoost, and Adabag) to a simple Decision Tree algorithm on a classification dataset. See this [document](./Portfolio5-Kernel_Ensemble_Methods/Narrative.pdf) to learn about how SVM kernels and the three ensemble methods work and the advantages and disadvanatges of each technique.
+
+## Portfolio 6: ML with sklearn
+This assignment involved performing machine learning in Python using the sklearn library. This [pdf](./Portfolio6-ML_with_sklearn/ML_with_sklearn.pdf) compares the results from three classification algorithms from Python's sklearn library: Logistic Regression, Decision Tree, and Neural Network.
