@@ -21,3 +21,6 @@ This assignment involved peforming machine learning using SVM kernels and Ensemb
 
 ## Portfolio 6: ML with sklearn
 This assignment involved performing machine learning in Python using the sklearn library. This [pdf](./Portfolio6-ML_with_sklearn/ML_with_sklearn.pdf) compares the results from three classification algorithms from Python's sklearn library: Logistic Regression, Decision Tree, and Neural Network.
+
+## Portfolio 7: Image Classification
+This assignment involved using various deep learning techniques (sequential, CNN, RNN, pretrained models) to perform classification on a dataset containng images of cats and dogs using Keras.
